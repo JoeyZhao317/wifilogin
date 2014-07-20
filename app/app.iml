@@ -61,6 +61,39 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 20 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="commons-compress-1.0" level="project" />
+    <orderEntry type="library" exported="" name="javawriter-2.2.1" level="project" />
+    <orderEntry type="library" exported="" name="proguard-base-4.10" level="project" />
+    <orderEntry type="library" exported="" name="lombok-ast-0.2.1" level="project" />
+    <orderEntry type="library" exported="" name="kxml2-2.3.0" level="project" />
+    <orderEntry type="library" exported="" name="proguard-gradle-4.10" level="project" />
+    <orderEntry type="library" exported="" name="guava-13.0.1" level="project" />
+    <orderEntry type="library" exported="" name="aspectjrt-1.7.4" level="project" />
+    <orderEntry type="library" exported="" name="layoutlib-api-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="asm-tree-4.0" level="project" />
+    <orderEntry type="library" exported="" name="eventbus-2.2.1" level="project" />
+    <orderEntry type="library" exported="" name="asm-4.0" level="project" />
+    <orderEntry type="library" exported="" name="builder-test-api-0.7.3" level="project" />
+    <orderEntry type="library" exported="" name="lint-checks-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="butterknife-5.1.0" level="project" />
+    <orderEntry type="library" exported="" name="bcpkix-jdk15on-1.48" level="project" />
+    <orderEntry type="library" exported="" name="gradle-0.7.3" level="project" />
+    <orderEntry type="library" exported="" name="builder-model-0.7.3" level="project" />
+    <orderEntry type="library" exported="" name="lint-api-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="manifest-merger-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="asm-analysis-4.0" level="project" />
+    <orderEntry type="library" exported="" name="ddmlib-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="httpcore-4.1" level="project" />
+    <orderEntry type="library" exported="" name="builder-0.7.3" level="project" />
+    <orderEntry type="library" exported="" name="dvlib-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="common-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="sdklib-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="sdk-common-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="lint-22.4.2" level="project" />
+    <orderEntry type="library" exported="" name="aspectjtools-1.7.4" level="project" />
+    <orderEntry type="library" exported="" name="httpmime-4.1" level="project" />
+    <orderEntry type="library" exported="" name="bcprov-jdk15on-1.48" level="project" />
+    <orderEntry type="library" exported="" name="hugo-plugin-1.1.0" level="project" />
   </component>
 </module>
 

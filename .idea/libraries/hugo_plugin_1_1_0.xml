@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hugo-plugin-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.hugo/hugo-plugin/1.1.0/17359e08a0edce20d43857a5787e2ce856b1d3bd/hugo-plugin-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.hugo/hugo-plugin/1.1.0/71a1d20542cb1ec4141d91054259342f8ac66f11/hugo-plugin-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
