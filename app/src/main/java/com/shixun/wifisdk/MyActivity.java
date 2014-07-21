@@ -11,7 +11,6 @@ import butterknife.ButterKnife;
 import butterknife.InjectView;
 import butterknife.OnClick;
 
-
 public class MyActivity extends Activity {
 
     @InjectView(R.id.staus_view)
@@ -46,6 +45,6 @@ public class MyActivity extends Activity {
 
     @OnClick(R.id.detect_wifi)
     void detectViwif() {
-
+        WifiSDKManager.getInstance().detectWifiAccount();
     }
 }

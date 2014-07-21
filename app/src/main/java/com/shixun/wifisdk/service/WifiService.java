@@ -15,6 +15,8 @@ import android.os.IBinder;
 
 import java.util.List;
 
+import hugo.weaving.DebugLog;
+
 public class WifiService extends Service {
     private final IBinder mBinder = new LocalBinder();
     private OnAccountDetectListener mDetectListener;
@@ -32,6 +34,7 @@ public class WifiService extends Service {
     }
 
     @Override
+    @DebugLog
     public IBinder onBind(Intent intent) {
         return mBinder;
     }

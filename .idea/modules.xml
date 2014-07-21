@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WifiSDK.iml" filepath="$PROJECT_DIR$/WifiSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifilogin.iml" filepath="$PROJECT_DIR$/wifilogin.iml" />
     </modules>
   </component>
 </project>

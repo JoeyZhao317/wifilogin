@@ -4,6 +4,8 @@ import com.shixun.wifisdk.core.AccountInfo;
 import com.shixun.wifisdk.core.OnLoginListener;
 import com.shixun.wifisdk.core.WifiEntry;
 
+import hugo.weaving.DebugLog;
+
 public class ShixunAccountPlugin extends AccountPluginBase {
     public final static String ACCOUNT = "Shixun_account";
 
@@ -36,7 +38,7 @@ public class ShixunAccountPlugin extends AccountPluginBase {
         return false;
     }
 
-    @Override
+    @Override @DebugLog
     public boolean checkWifiType() {
         return false;
     }
